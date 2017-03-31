@@ -36,7 +36,6 @@ class App extends React.Component {
     }
 
     render() {
-        console.log(this.state.fishes)
         return (
             <div className="catch-of-the-day">
                 <div className="menu">
